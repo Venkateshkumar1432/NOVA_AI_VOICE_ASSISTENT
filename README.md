@@ -1,2 +1,1 @@
-ABSTRACT
 This project is about developing *"Nova," an AI Voice Assistant* for Windows computers. It is inspired by virtual assistants like *Cortana and Siri* and helps users perform various tasks using voice commands. The assistant can *send messages, set alarms, control applications, provide information, and manage **smart devices. The system uses **Artificial Intelligence (AI), Natural Language Processing (NLP), and Machine Learning* to understand user commands and improve over time. The goal is to make computer interaction *easier, faster, and more efficient*.  
